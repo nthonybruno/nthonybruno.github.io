@@ -1,5 +1,6 @@
+# Recent Posts
 ---
-layout: default
+layout: minimal
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
